@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC35B7BE1E34CA80005EE762 /* Minecraft 2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FC35B7BD1E34CA80005EE762 /* Minecraft 2.ttf */; };
 		FCCF51BD1E2BD64E0066F8CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCCF51BC1E2BD64E0066F8CE /* AppDelegate.swift */; };
 		FCCF51BF1E2BD64E0066F8CE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCCF51BE1E2BD64E0066F8CE /* ViewController.swift */; };
 		FCCF51C21E2BD64E0066F8CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCCF51C01E2BD64E0066F8CE /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FC35B7BD1E34CA80005EE762 /* Minecraft 2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Minecraft 2.ttf"; sourceTree = "<group>"; };
 		FCCF51B91E2BD64E0066F8CE /* RetroCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RetroCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCCF51BC1E2BD64E0066F8CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FCCF51BE1E2BD64E0066F8CE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		FCCF51BB1E2BD64E0066F8CE /* RetroCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				FC35B7BD1E34CA80005EE762 /* Minecraft 2.ttf */,
 				FCCF51BC1E2BD64E0066F8CE /* AppDelegate.swift */,
 				FCCF51BE1E2BD64E0066F8CE /* ViewController.swift */,
 				FCCF51C01E2BD64E0066F8CE /* Main.storyboard */,
@@ -126,6 +129,7 @@
 			files = (
 				FCCF51C71E2BD64E0066F8CE /* LaunchScreen.storyboard in Resources */,
 				FCCF51C41E2BD64E0066F8CE /* Assets.xcassets in Resources */,
+				FC35B7BE1E34CA80005EE762 /* Minecraft 2.ttf in Resources */,
 				FCCF51C21E2BD64E0066F8CE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				FCCF51CD1E2BD64E0066F8CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
